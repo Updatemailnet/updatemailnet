@@ -67,7 +67,8 @@
     "gdpr": false,
     "witsec-white-label": false,
     "witsec-jquery": false,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
